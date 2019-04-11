@@ -8,8 +8,8 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>REPO_NAME_HERE</summary>
-        <description>DESCRIPTION OF YOUR REPO HERE</description>
+        <summary>[B][COLOR teal]TGG Wizard[/COLOR][/B]</summary>
+        <description>Fork of Aftermath Wizard, containing [B][COLOR teal]SpecialK[/COLOR] build[/B]</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
