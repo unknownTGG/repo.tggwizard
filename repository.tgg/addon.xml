@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<addons>
-<addon id="plugin.program.tgg" name="[B][COLOR teal]TGG Wizard[/COLOR][/B]" version="1.0" provider-name="unknownTGG">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.service" library="startup.py" start="startup" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">[B][COLOR teal]TGG Wizard[/COLOR][/B]</summary>
-    <description lang="en">Fork of Aftermath Wizard, containing [B][COLOR teal]SpecialK[/COLOR] build[/B]</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.tgg" name="[B][COLOR teal]TGG Repository[/COLOR][/B]" version="1.0" provider-name="unknownTGG">
     <extension point="xbmc.addon.repository" name="TGG Repository">
         <dir>
@@ -34,4 +18,3 @@
         </assets>
     </extension>
 </addon>
-</addons>
