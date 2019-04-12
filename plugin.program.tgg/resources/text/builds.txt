@@ -1,7 +1,3 @@
-id="plugin.program.tgg"
-version="1.0"
-zip="https://github.com/unknownTGG/unknownTGG.github.io/blob/master/zips/plugin.program.tgg/plugin.program.tgg-1.0.zip"
-
 name="SpecialK"
 version="4.0"
 url="https://kodihub.net/xzz8p"
