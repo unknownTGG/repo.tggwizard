@@ -1,6 +1,6 @@
 name="SpecialK"
 version="4.0"
-url="https://kodihub.net/xzz8p"
+url="http://kodihub.net/xzz8p/"
 gui="http://"
 kodi="18.0"
 theme="http://"
