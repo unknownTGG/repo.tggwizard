@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.tgg" name="[B][COLOR teal]TGG Wizard[/COLOR][/B]" version="1.0" provider-name="unknownTGG">
+<addon id="plugin.program.tgg" name="[B][COLOR teal]TGG Wizard[/COLOR][/B]" version="1.1" provider-name="unknownTGG">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
