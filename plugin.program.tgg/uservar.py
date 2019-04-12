@@ -89,7 +89,7 @@ CONTACTFANART  = 'http://'
 ###        For Those With No Repo #######################
 #########################################################
 # Enable Auto Update 'Yes' or 'No'
-AUTOUPDATE     = 'Yes'
+AUTOUPDATE     = 'No'
 # Url to wizard version
 WIZARDFILE     = BUILDFILE
 #########################################################
