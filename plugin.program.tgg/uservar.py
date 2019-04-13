@@ -18,7 +18,7 @@ EXCLUDES       = [ADDON_ID, 'repository.aftermath']
 CACHETEXT      = 'Yes'
 CACHEAGE       = 45
 # Text File with build info in it.
-BUILDFILE      = 'http://'
+BUILDFILE      = 'https://raw.githubusercontent.com/unknownTGG/unknownTGG.github.io/master/plugin.program.tgg/resources/text/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK    = 0
