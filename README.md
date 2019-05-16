@@ -1,5 +1,3 @@
-# unknownTGG's Smart Media Website
-
 ## Kodi (18.0)
 
 ### Downloads
