@@ -1,6 +1,6 @@
 # unknownTGG's Smart Media Website
 
-**Kodi (18.0)**
+## Kodi (18.0)
 
 ### Downloads
 
@@ -11,7 +11,7 @@
 
 __NOTE: Most android phones and android TVs are ARM, not arm64-v8a.__
 
-**TGG Wizard Repository Addon**
+## TGG Wizard Repository Addon
 
 Go to the Kodi file manager.
 
