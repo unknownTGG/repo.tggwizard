@@ -29,7 +29,7 @@ Select the "**TGG Repository**"
 
 Go into the "Program add-ons" section in the repo, and you'll find **TGG Wizard**
 
-**Smart Youtube TV**
+## Smart Youtube TV
 
 ### Download
 
