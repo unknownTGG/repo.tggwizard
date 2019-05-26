@@ -28,6 +28,7 @@ Select the "**TGG Repository**"
 Go into the "Program add-ons" section in the repo, and you'll find **TGG Wizard**
 
 ## Smart Youtube TV
+I am not affiliated with Smart Youtube TV, I like the app and I wanted to make it more easy for people to download.
 
 ### Download
 
