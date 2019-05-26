@@ -1,5 +1,5 @@
-<?xml version="1.1" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.tgg" name="[B][COLOR teal]TGG Wizard[/COLOR][/B]" version="1.1" provider-name="unknownTGG">
+<?xml version="1.0.1" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.tgg" name="[COLOR teal]TGG Wizard[/COLOR]" version="1.0.1" provider-name="unknownTGG">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
