@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.tgg" name="[COLOR teal]TGG Wizard[/COLOR]" version="1.0.1" provider-name="unknownTGG">
+<addon id="plugin.program.tgg" name="[COLOR teal]TGG Wizard[/COLOR]" version="1.2.1" provider-name="unknownTGG">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -15,7 +15,7 @@
   </extension>
 </addon>
 
-<addon id="repository.tgg" name="[COLOR teal]TGG Repository[/COLOR]" version="1.0.1" provider-name="unknownTGG">
+<addon id="repository.tgg" name="[COLOR teal]TGG Repository[/COLOR]" version="1.2.1" provider-name="unknownTGG">
     <extension point="xbmc.addon.repository" name="TGG Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/unknownTGG/unknowntgg.github.io/master/zips/addons.xml</info>
