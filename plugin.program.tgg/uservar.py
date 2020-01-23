@@ -20,7 +20,7 @@ EXCLUDES = [ADDON_ID, 'repository.openwizard']
 BUILDFILE = 'https://raw.githubusercontent.com/unknownTGG/unknownTGG.github.io/master/plugin.program.tgg/resources/text/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
-UPDATECHECK = 0
+UPDATECHECK = 2
 # Text File with apk info in it.  Leave as 'http://' to ignore
 APKFILE = 'http://'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
@@ -56,7 +56,7 @@ ICONSETTINGS   = 'http://'
 # Hide the section separators 'Yes' or 'No'
 HIDESPACERS = 'Yes'
 # Character used in separator
-SPACER = '0'
+SPACER = '='
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item
