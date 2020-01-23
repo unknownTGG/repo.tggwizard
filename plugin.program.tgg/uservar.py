@@ -54,9 +54,9 @@ ICONLOGIN      = 'http://'
 ICONCONTACT    = 'http://'
 ICONSETTINGS   = 'http://'
 # Hide the section separators 'Yes' or 'No'
-HIDESPACERS = 'No'
+HIDESPACERS = 'Yes'
 # Character used in separator
-SPACER = '×'
+SPACER = '='
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item
